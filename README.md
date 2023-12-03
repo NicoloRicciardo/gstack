@@ -6,3 +6,5 @@ Esame di C++ di Luglio 2021
 
 Il progetto richiedeva la realizzazione di una classe generica che implementa uno stack.
 La classe in questione è stata chiamata “gstack” ovvero “generic stack”. Essa permette di creare uno stack (gestito tramite un puntatore a dati generici di tipo T).
+
+Era richiesto inoltre la realizzazione di un semplice editor di testo minimale con Qt.
